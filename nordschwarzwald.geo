@@ -74,4 +74,4 @@ M52       N 49 13 10.62    E 008 38 49.38   109  Kronau Bf
 M53       N 49 17 28.92    E 008 39 50.64   113  Walldorf Bf
 M54       N 49 02 13.68    E 008 41 37.08   170  Bretten Bf
 M55       N 49 00 03.36    E 008 48 46.08   255  Maulbronn Kloster
-MM6       N 48 45 49.02    E 008 14 43.20   181  Caracalla Therme
+M56       N 48 45 49.02    E 008 14 43.20   181  Caracalla Therme

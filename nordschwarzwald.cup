@@ -74,4 +74,4 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Walldorf Bf","M53",DE,4917.482N,00839.844E,113.0m,1,,,,
 "Bretten Bf","M54",DE,4902.228N,00841.618E,170.0m,1,,,,
 "Maulbronn Kloster","M55",DE,4900.056N,00848.768E,255.0m,1,,,,
-"Caracalla Therme","MM6",DE,4845.817N,00814.720E,181.0m,1,,,,
+"Caracalla Therme","M56",DE,4845.817N,00814.720E,181.0m,1,,,,
