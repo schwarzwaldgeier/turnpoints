@@ -4,11 +4,11 @@ Soaring turnpoints for northern black forest. Based on initial work by Sandor Nu
 See https://drive.google.com/open?id=1BQW2L9hn454ky5jYWdMswSCpwMk&amp;usp=sharing for a visual representation.
 
 ## Download (right-click, save as)
-* https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.cup <-- XC SOAR
-* https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.ozi
-* https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.wpt <-- XC TRACK
-* https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.kml <-- Google Earth
-* https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.gpx
+* [nordschwarzwald.cup (SeeYou, XcSoar, TopHat, ...)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.cup)
+* [nordschwarzwald_ozi.wpt (Garmin et al.)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald_ozi.wpt)
+* [nordschwarzwald_compe.wpt (Skytraxx, Bräuniger, XC Track, ...](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald_compe.wpt)
+* [nordschwarzwald.kml (Google Earth)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.kml)
+* [nordschwarzwald.gpx](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.gpx)
 
 ## How to contribute
 Use http://pottyplace.com/waypts/ with the .cup file, add turnpoints, use the tool to save the rest of the formats and update the repo. Use gpsbabel for gpx and kml in case you care.
@@ -28,4 +28,5 @@ git clone https://github.com/schwarzwaldgeier/turnpoints.git
 gpsbabel -w -i ozi -f nordschwarzwald.ozi -o kml -f norschwarzwald.kml
 gpsbabel -w -i ozi -f nordschwarzwald.ozi -o gpx -f norschwarzwald.gpx
 
+```
 Or: Edit here: https://drive.google.com/open?id=1BQW2L9hn454ky5jYWdMswSCpwMk&usp=sharing and run convert.sh, then commit.
