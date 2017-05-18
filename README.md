@@ -6,7 +6,7 @@ See https://drive.google.com/open?id=1BQW2L9hn454ky5jYWdMswSCpwMk&amp;usp=sharin
 ## Download (right-click, save as)
 * [nordschwarzwald.cup (SeeYou, XcSoar, TopHat, ...)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.cup)
 * [nordschwarzwald_ozi.wpt (Garmin et al.)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald_ozi.wpt)
-* [nordschwarzwald_compe.wpt (Skytraxx, Bräuniger, XC Track, ...](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald_compe.wpt)
+* [nordschwarzwald_compe.wpt (Skytraxx, Bräuniger, XC Track, ...)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald_compe.wpt)
 * [nordschwarzwald.kml (Google Earth)](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.kml)
 * [nordschwarzwald.gpx](https://github.com/schwarzwaldgeier/turnpoints/raw/master/nordschwarzwald.gpx)
 
