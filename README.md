@@ -27,3 +27,5 @@ git clone https://github.com/schwarzwaldgeier/turnpoints.git
 # To get the remaining ones, convert from ozi:
 gpsbabel -w -i ozi -f nordschwarzwald.ozi -o kml -f norschwarzwald.kml
 gpsbabel -w -i ozi -f nordschwarzwald.ozi -o gpx -f norschwarzwald.gpx
+
+Or: Edit here: https://drive.google.com/open?id=1BQW2L9hn454ky5jYWdMswSCpwMk&usp=sharing and run convert.sh, then commit.
