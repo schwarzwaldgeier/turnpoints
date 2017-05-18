@@ -787,7 +787,7 @@
       <styleUrl>#icon-1739-000000-labelson</styleUrl>
       <Point>
         <coordinates>
-          8.2518911,48.7764103,0
+          8.2520628,48.7768769,0
         </coordinates>
       </Point>
     </Placemark>
@@ -798,6 +798,96 @@
       <Point>
         <coordinates>
           8.2453144,48.763615,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M60</name>
+      <description>Schoemberg Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.6384055,48.7868503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M61</name>
+      <description>Calw Bf</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.7418556,48.7146841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M62</name>
+      <description>Walzbachtal Steinbruch</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.6284733,49.0155812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M63</name>
+      <description>Obertal Freibad</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2773077,48.5280237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M64</name>
+      <description>Seebach Steinbruch</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2126021,48.5854651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M65</name>
+      <description>Ruhestein Skipiste</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2261419,48.5629693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M66</name>
+      <description>Vogelskopf Skipiste</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2237494,48.5535463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M67</name>
+      <description>Fuenfbronn</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4959775,48.6118242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M68</name>
+      <description>Voelkersbach Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.393898,48.8655767,0
         </coordinates>
       </Point>
     </Placemark>

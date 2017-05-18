@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2017-05-18T11:37:23.889Z</time>
+  <time>2017-05-18T12:12:12.984Z</time>
   <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
   <wpt lat="48.764733000" lon="8.279267000">
     <ele>644.960000</ele>
@@ -464,7 +464,7 @@
     <cmt>Baden-Baden Sportplatz</cmt>
     <desc>Baden-Baden Sportplatz</desc>
   </wpt>
-  <wpt lat="48.776410300" lon="8.251891100">
+  <wpt lat="48.776876900" lon="8.252062800">
     <ele>0.000000</ele>
     <name>M58</name>
     <cmt>Battertfelsen</cmt>
@@ -475,5 +475,59 @@
     <name>M59</name>
     <cmt>Caracalla Therme</cmt>
     <desc>Caracalla Therme</desc>
+  </wpt>
+  <wpt lat="48.786850300" lon="8.638405500">
+    <ele>0.000000</ele>
+    <name>M60</name>
+    <cmt>Schoemberg Sportplatz</cmt>
+    <desc>Schoemberg Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.714684100" lon="8.741855600">
+    <ele>0.000000</ele>
+    <name>M61</name>
+    <cmt>Calw Bf</cmt>
+    <desc>Calw Bf</desc>
+  </wpt>
+  <wpt lat="49.015581200" lon="8.628473300">
+    <ele>0.000000</ele>
+    <name>M62</name>
+    <cmt>Walzbachtal Steinbruch</cmt>
+    <desc>Walzbachtal Steinbruch</desc>
+  </wpt>
+  <wpt lat="48.528023700" lon="8.277307700">
+    <ele>0.000000</ele>
+    <name>M63</name>
+    <cmt>Obertal Freibad</cmt>
+    <desc>Obertal Freibad</desc>
+  </wpt>
+  <wpt lat="48.585465100" lon="8.212602100">
+    <ele>0.000000</ele>
+    <name>M64</name>
+    <cmt>Seebach Steinbruch</cmt>
+    <desc>Seebach Steinbruch</desc>
+  </wpt>
+  <wpt lat="48.562969300" lon="8.226141900">
+    <ele>0.000000</ele>
+    <name>M65</name>
+    <cmt>Ruhestein Skipiste</cmt>
+    <desc>Ruhestein Skipiste</desc>
+  </wpt>
+  <wpt lat="48.553546300" lon="8.223749400">
+    <ele>0.000000</ele>
+    <name>M66</name>
+    <cmt>Vogelskopf Skipiste</cmt>
+    <desc>Vogelskopf Skipiste</desc>
+  </wpt>
+  <wpt lat="48.611824200" lon="8.495977500">
+    <ele>0.000000</ele>
+    <name>M67</name>
+    <cmt>Fuenfbronn</cmt>
+    <desc>Fuenfbronn</desc>
+  </wpt>
+  <wpt lat="48.865576700" lon="8.393898000">
+    <ele>0.000000</ele>
+    <name>M68</name>
+    <cmt>Voelkersbach Sportplatz</cmt>
+    <desc>Voelkersbach Sportplatz</desc>
   </wpt>
 </gpx>
