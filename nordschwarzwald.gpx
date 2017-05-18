@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2017-05-18T11:31:32.823Z</time>
+  <time>2017-05-18T11:35:40.666Z</time>
   <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
   <wpt lat="48.764733000" lon="8.279267000">
     <ele>644.960000</ele>
@@ -466,8 +466,14 @@
   </wpt>
   <wpt lat="48.776410300" lon="8.251891100">
     <ele>0.000000</ele>
-    <name>Point 78</name>
-    <cmt>Point 78</cmt>
-    <desc>Point 78</desc>
+    <name>M58</name>
+    <cmt>Battertfelsen</cmt>
+    <desc>Battertfelsen</desc>
+  </wpt>
+  <wpt lat="48.763615000" lon="8.245314400">
+    <ele>0.000000</ele>
+    <name>M59</name>
+    <cmt>Caracalla Therme</cmt>
+    <desc>Caracalla Therme</desc>
   </wpt>
 </gpx>

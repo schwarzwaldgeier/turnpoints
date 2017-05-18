@@ -11,18 +11,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-1739-000000-labelson-nodesc">
-      <IconStyle>
-        <color>ff000000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
     <Placemark>
       <name>S01</name>
       <description>Merkur W</description>
@@ -794,11 +782,22 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Point 78</name>
-      <styleUrl>#icon-1739-000000-labelson-nodesc</styleUrl>
+      <name>M58</name>
+      <description>Battertfelsen</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
       <Point>
         <coordinates>
           8.2518911,48.7764103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M59</name>
+      <description>Caracalla Therme</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2453144,48.763615,0
         </coordinates>
       </Point>
     </Placemark>

@@ -76,5 +76,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "M55",M55,,4900.056N,00848.768E,254.8m,1,,,,"Maulbronn Kloster"
 "M56",M56,,4842.708N,00814.950E,0.0m,1,,,,"Geroldsauer Wasserfall"
 "M57",M57,,4846.446N,00813.105E,0.0m,1,,,,"Baden-Baden Sportplatz"
-"Point 78",Point 78,,4846.585N,00815.113E,0.0m,1,,,,"Point 78"
+"M58",M58,,4846.585N,00815.113E,0.0m,1,,,,"Battertfelsen"
+"M59",M59,,4845.817N,00814.719E,0.0m,1,,,,"Caracalla Therme"
 -----Related Tasks-----
