@@ -1,77 +1,80 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
-"Merkur W","S01",DE,4845.884N,00816.756E,645.0m,1,,,,
-"Merkur NO","S02",DE,4845.893N,00816.909E,646.0m,1,,,,
-"Loffenau NW","S03",DE,4845.382N,00824.389E,875.0m,1,,,,
-"Stoeckerkopf","S04",DE,4829.700N,00822.122E,760.0m,1,,,,
-"Zuflucht W","S05",DE,4829.212N,00814.357E,932.0m,1,,,,
-"Oppenau O","S06",DE,4826.145N,00809.114E,755.0m,1,,,,
-"Oppenau NO","S07",DE,4826.857N,00808.786E,750.0m,1,,,,
-"Althof Drachenrampe","S08",DE,4849.400N,00824.140E,659.0m,1,,,,
-"Koenigstuhl","S09",DE,4924.294N,00843.615E,535.0m,1,,,,
-"Teufelsberg","S10",DE,4900.490N,00901.814E,347.0m,1,,,,
-"Merkur LP W","L01",DE,4845.817N,00815.656E,255.0m,1,,,,
-"Loffenau LP","L02",DE,4846.331N,00823.929E,399.0m,1,,,,
-"Geroldsau","L03",DE,4843.951N,00815.145E,229.0m,1,,,,
-"Stoeckerkopf LP","L04",DE,4829.902N,00821.732E,565.0m,1,,,,
-"Zuflucht LP","L05",DE,4829.227N,00813.802E,625.0m,1,,,,
-"Oppenau LP O","L06",DE,4827.099N,00809.925E,305.0m,1,,,,
-"Wildbad LP","L07",DE,4844.388N,00832.693E,451.0m,1,,,,
-"Bissingen Enzaue","L08",DE,4856.876N,00905.481E,184.0m,1,,,,
-"Merkur LP NO","L09",DE,4846.004N,00817.722E,358.0m,1,,,,
-"Klosterwiese","L10",DE,4844.943N,00815.016E,181.0m,1,,,,
-"Heidelberg LP","L11",DE,4925.246N,00844.273E,154.0m,1,,,,
-"Dilsberg Pferdekoppel","L12",DE,4922.692N,00850.168E,195.0m,1,,,,
-"Teufelsberg LP","L13",DE,4859.873N,00902.173E,242.0m,1,,,,
-"Lichtental Geroldsau","M02",DE,4844.251N,00814.652E,440.0m,1,,,,
-"Fremersberg","M03",DE,4845.153N,00812.100E,520.0m,1,,,,
-"Hoehe Oos","M04",DE,4846.925N,00813.208E,230.0m,1,,,,
-"Ebersteinburg Nord","M05",DE,4847.342N,00816.156E,320.0m,1,,,,
-"Gernsbach Bf","M06",DE,4846.068N,00820.182E,170.0m,1,,,,
-"Weisenbach","M07",DE,4843.825N,00820.931E,250.0m,1,,,,
-"Sand","M08",DE,4839.735N,00815.604E,770.0m,1,,,,
-"Buehl","M09",DE,4842.282N,00810.225E,350.0m,1,,,,
-"Reichental","M10",DE,4844.078N,00824.861E,660.0m,1,,,,
-"Bad Herrenalb Nord","M12",DE,4848.689N,00827.121E,500.0m,1,,,,
-"Sulzbach","M13",DE,4849.076N,00822.494E,270.0m,1,,,,
-"Oberweier","M14",DE,4850.614N,00818.425E,170.0m,1,,,,
-"Gaggenau Bf","M15",DE,4848.334N,00819.200E,141.0m,1,,,,
-"Herrenalb Golfplatz","M16",DE,4848.680N,00826.253E,352.0m,1,,,,
-"Dobel Wasserturm","M17",DE,4847.674N,00829.410E,715.0m,1,,,,
-"Schwarzenbachtalsperre","M18",DE,4839.277N,00819.775E,649.0m,1,,,,
-"Mummelsee Hotel","M19",DE,4835.800N,00812.072E,1034.0m,1,,,,
-"Hornisgrinde Sender","M20",DE,4836.649N,00812.107E,1125.0m,1,,,,
-"Altes Schloss","M21",DE,4846.597N,00814.650E,424.0m,1,,,,
-"Ebersteinburg","M22",DE,4846.955N,00816.412E,481.0m,1,,,,
-"Binsenwasen","M23",DE,4845.624N,00817.056E,520.0m,1,,,,
-"Kleiner Staufenberg","M24",DE,4845.375N,00817.202E,613.0m,1,,,,
-"Fremersberg Golfplatz","M25",DE,4844.708N,00812.754E,280.0m,1,,,,
-"Mehliskopf Turm","M26",DE,4838.937N,00814.186E,989.0m,1,,,,
-"Enzkloesterle Camping","M27",DE,4839.901N,00828.031E,602.0m,1,,,,
-"Pforzheim Bf","M28",DE,4853.627N,00842.184E,280.0m,1,,,,
-"Forbach Bf","M29",DE,4840.825N,00821.708E,321.0m,1,,,,
-"DM Arena","M30",DE,4858.932N,00820.084E,116.0m,1,,,,
-"Ettlingen Sendeturm","M31",DE,4857.422N,00827.104E,318.0m,1,,,,
-"Karlsruhe Schloss","M32",DE,4900.814N,00824.262E,117.0m,1,,,,
-"Straubenhardt Rewe","M33",DE,4850.719N,00832.492E,411.0m,1,,,,
-"Birkenfeld Sportplatz","M34",DE,4852.333N,00837.151E,369.0m,1,,,,
-"Karlsbad Freibad","M35",DE,4854.409N,00830.058E,265.0m,1,,,,
-"Freudenstadt Marktplatz","M36",DE,4827.815N,00824.640E,729.0m,1,,,,
-"Glaswaldsee","M37",DE,4825.554N,00815.713E,847.0m,1,,,,
-"Oberkirch Freibad","M38",DE,4831.426N,00805.346E,197.0m,1,,,,
-"Steinbruch Ottenhoefen","M39",DE,4833.680N,00810.326E,477.0m,1,,,,
-"Seewald Tennisplatz","M40",DE,4835.502N,00824.983E,808.0m,1,,,,
-"Mitteltal Skilift","M41",DE,4831.139N,00818.944E,700.0m,1,,,,
-"Hundsbach Skihang","M43",DE,4836.914N,00816.957E,657.0m,1,,,,
-"Kuppenheim Bf","M44",DE,4850.048N,00815.367E,125.0m,1,,,,
-"Muehlacker Sender","M45",DE,4856.459N,00851.142E,310.0m,1,,,,
-"Kaltenbachsee","M46",DE,4852.730N,00817.442E,119.0m,1,,,,
-"Malsch Kieswerk","M47",DE,4854.454N,00818.433E,113.0m,1,,,,
-"Epplesee","M48",DE,4857.895N,00819.428E,110.0m,1,,,,
-"Ettlingen Sportplatz","M49",DE,4856.275N,00823.611E,119.0m,1,,,,
-"Waldbronn Sportplatz","M50",DE,4855.830N,00828.706E,268.0m,1,,,,
-"Bruchsal Schloss","M51",DE,4907.735N,00835.878E,121.0m,1,,,,
-"Kronau Bf","M52",DE,4913.177N,00838.823E,109.0m,1,,,,
-"Walldorf Bf","M53",DE,4917.482N,00839.844E,113.0m,1,,,,
-"Bretten Bf","M54",DE,4902.228N,00841.618E,170.0m,1,,,,
-"Maulbronn Kloster","M55",DE,4900.056N,00848.768E,255.0m,1,,,,
-"Caracalla Therme","M56",DE,4845.817N,00814.720E,181.0m,1,,,,
+"S01",S01,,4845.884N,00816.756E,645.0m,1,,,,"Merkur W"
+"S02",S02,,4845.893N,00816.909E,645.9m,1,,,,"Merkur NO"
+"S03",S03,,4845.382N,00824.389E,874.8m,1,,,,"Loffenau NW"
+"S04",S04,,4829.700N,00822.122E,759.9m,1,,,,"Stoeckerkopf"
+"S05",S05,,4829.212N,00814.357E,931.8m,1,,,,"Zuflucht W"
+"S06",S06,,4826.145N,00809.114E,755.0m,1,,,,"Oppenau O"
+"S07",S07,,4826.857N,00808.786E,749.8m,1,,,,"Oppenau NO"
+"S08",S08,,4849.400N,00824.140E,659.0m,1,,,,"Althof Drachenrampe"
+"S09",S09,,4924.294N,00843.615E,534.9m,1,,,,"Koenigstuhl"
+"S10",S10,,4900.490N,00901.814E,346.9m,1,,,,"Teufelsberg"
+"L01",L01,,4845.817N,00815.656E,254.8m,1,,,,"Merkur LP W"
+"L02",L02,,4846.331N,00823.929E,399.0m,1,,,,"Loffenau LP"
+"L03",L03,,4843.951N,00815.145E,228.9m,1,,,,"Geroldsau"
+"L04",L04,,4829.902N,00821.732E,564.8m,1,,,,"Stoeckerkopf LP"
+"L05",L05,,4829.227N,00813.802E,624.8m,1,,,,"Zuflucht LP"
+"L06",L06,,4827.099N,00809.925E,304.8m,1,,,,"Oppenau LP O"
+"L07",L07,,4844.388N,00832.693E,450.8m,1,,,,"Wildbad LP"
+"L08",L08,,4856.876N,00905.481E,183.8m,1,,,,"Bissingen Enzaue"
+"L09",L09,,4846.004N,00817.722E,357.8m,1,,,,"Merkur LP NO"
+"L10",L10,,4844.943N,00815.016E,180.8m,1,,,,"Klosterwiese"
+"L11",L11,,4925.246N,00844.273E,153.9m,1,,,,"Heidelberg LP"
+"L12",L12,,4922.692N,00850.168E,194.8m,1,,,,"Dilsberg Pferdekoppel"
+"L13",L13,,4859.873N,00902.173E,241.7m,1,,,,"Teufelsberg LP"
+"M02",M02,,4844.251N,00814.652E,439.8m,1,,,,"Lichtental Geroldsau"
+"M03",M03,,4845.153N,00812.100E,520.0m,1,,,,"Fremersberg"
+"M04",M04,,4846.925N,00813.208E,229.8m,1,,,,"Hoehe Oos"
+"M05",M05,,4847.342N,00816.156E,319.7m,1,,,,"Ebersteinburg Nord"
+"M06",M06,,4846.068N,00820.182E,169.8m,1,,,,"Gernsbach Bf"
+"M07",M07,,4843.825N,00820.931E,249.9m,1,,,,"Weisenbach"
+"M08",M08,,4839.735N,00815.604E,769.9m,1,,,,"Sand"
+"M09",M09,,4842.282N,00810.225E,349.9m,1,,,,"Buehl"
+"M10",M10,,4844.078N,00824.861E,659.9m,1,,,,"Reichental"
+"M12",M12,,4848.689N,00827.121E,499.9m,1,,,,"Bad Herrenalb Nord"
+"M13",M13,,4849.076N,00822.494E,269.8m,1,,,,"Sulzbach"
+"M14",M14,,4850.614N,00818.425E,169.8m,1,,,,"Oberweier"
+"M15",M15,,4848.334N,00819.200E,140.8m,1,,,,"Gaggenau Bf"
+"M16",M16,,4848.680N,00826.253E,351.7m,1,,,,"Herrenalb Golfplatz"
+"M17",M17,,4847.674N,00829.410E,714.8m,1,,,,"Dobel Wasserturm"
+"M18",M18,,4839.277N,00819.775E,648.9m,1,,,,"Schwarzenbachtalsperre"
+"M19",M19,,4835.800N,00812.072E,1033.9m,1,,,,"Mummelsee Hotel"
+"M20",M20,,4836.649N,00812.107E,1124.7m,1,,,,"Hornisgrinde Sender"
+"M21",M21,,4846.597N,00814.650E,424.0m,1,,,,"Altes Schloss"
+"M22",M22,,4846.955N,00816.412E,481.0m,1,,,,"Ebersteinburg"
+"M23",M23,,4845.624N,00817.056E,520.0m,1,,,,"Binsenwasen"
+"M24",M24,,4845.375N,00817.202E,613.0m,1,,,,"Kleiner Staufenberg"
+"M25",M25,,4844.708N,00812.754E,279.8m,1,,,,"Fremersberg Golfplatz"
+"M26",M26,,4838.937N,00814.186E,988.8m,1,,,,"Mehliskopf Turm"
+"M27",M27,,4839.901N,00828.031E,602.0m,1,,,,"Enzkloesterle Camping"
+"M28",M28,,4853.627N,00842.184E,279.8m,1,,,,"Pforzheim Bf"
+"M29",M29,,4840.825N,00821.708E,320.9m,1,,,,"Forbach Bf"
+"M30",M30,,4858.932N,00820.084E,115.8m,1,,,,"DM Arena"
+"M31",M31,,4857.422N,00827.104E,317.9m,1,,,,"Ettlingen Sendeturm"
+"M32",M32,,4900.814N,00824.262E,116.7m,1,,,,"Karlsruhe Schloss"
+"M33",M33,,4850.719N,00832.492E,410.9m,1,,,,"Straubenhardt Rewe"
+"M34",M34,,4852.333N,00837.151E,368.8m,1,,,,"Birkenfeld Sportplatz"
+"M35",M35,,4854.409N,00830.058E,264.9m,1,,,,"Karlsbad Freibad"
+"M36",M36,,4827.815N,00824.640E,728.8m,1,,,,"Freudenstadt Marktplatz"
+"M37",M37,,4825.554N,00815.713E,846.7m,1,,,,"Glaswaldsee"
+"M38",M38,,4831.426N,00805.346E,196.9m,1,,,,"Oberkirch Freibad"
+"M39",M39,,4833.680N,00810.326E,476.7m,1,,,,"Steinbruch Ottenhoefen"
+"M40",M40,,4835.502N,00824.983E,807.7m,1,,,,"Seewald Tennisplatz"
+"M41",M41,,4831.139N,00818.944E,699.8m,1,,,,"Mitteltal Skilift"
+"M43",M43,,4836.914N,00816.957E,656.8m,1,,,,"Hundsbach Skihang"
+"M44",M44,,4850.048N,00815.367E,125.0m,1,,,,"Kuppenheim Bf"
+"M45",M45,,4856.459N,00851.142E,310.0m,1,,,,"Muehlacker Sender"
+"M46",M46,,4852.730N,00817.442E,118.9m,1,,,,"Kaltenbachsee"
+"M47",M47,,4854.454N,00818.433E,112.8m,1,,,,"Malsch Kieswerk"
+"M48",M48,,4857.895N,00819.428E,109.7m,1,,,,"Epplesee"
+"M49",M49,,4856.275N,00823.611E,118.9m,1,,,,"Ettlingen Sportplatz"
+"M50",M50,,4855.830N,00828.706E,267.9m,1,,,,"Waldbronn Sportplatz"
+"M51",M51,,4907.735N,00835.878E,120.7m,1,,,,"Bruchsal Schloss"
+"M52",M52,,4913.177N,00838.823E,108.8m,1,,,,"Kronau Bf"
+"M53",M53,,4917.482N,00839.844E,112.8m,1,,,,"Walldorf Bf"
+"M54",M54,,4902.228N,00841.618E,169.8m,1,,,,"Bretten Bf"
+"M55",M55,,4900.056N,00848.768E,254.8m,1,,,,"Maulbronn Kloster"
+"M56",M56,,4842.708N,00814.950E,0.0m,1,,,,"Geroldsauer Wasserfall"
+"M57",M57,,4846.446N,00813.105E,0.0m,1,,,,"Baden-Baden Sportplatz"
+"Point 78",Point 78,,4846.585N,00815.113E,0.0m,1,,,,"Point 78"
+-----Related Tasks-----

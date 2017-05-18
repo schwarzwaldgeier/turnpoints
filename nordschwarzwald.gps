@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2017-05-18T11:27:38.157Z</time>
+  <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
+  <wpt lat="48.764733000" lon="8.279267000">
+    <ele>644.960000</ele>
+    <name>S01</name>
+    <cmt>Merkur W</cmt>
+    <desc>Merkur W</desc>
+  </wpt>
+  <wpt lat="48.764883000" lon="8.281817000">
+    <ele>645.870000</ele>
+    <name>S02</name>
+    <cmt>Merkur NO</cmt>
+    <desc>Merkur NO</desc>
+  </wpt>
+  <wpt lat="48.756367000" lon="8.406483000">
+    <ele>874.780000</ele>
+    <name>S03</name>
+    <cmt>Loffenau NW</cmt>
+    <desc>Loffenau NW</desc>
+  </wpt>
+  <wpt lat="48.495000000" lon="8.368700000">
+    <ele>759.870000</ele>
+    <name>S04</name>
+    <cmt>Stoeckerkopf</cmt>
+    <desc>Stoeckerkopf</desc>
+  </wpt>
+  <wpt lat="48.486867000" lon="8.239283000">
+    <ele>931.770000</ele>
+    <name>S05</name>
+    <cmt>Zuflucht W</cmt>
+    <desc>Zuflucht W</desc>
+  </wpt>
+  <wpt lat="48.435750000" lon="8.151900000">
+    <ele>754.990000</ele>
+    <name>S06</name>
+    <cmt>Oppenau O</cmt>
+    <desc>Oppenau O</desc>
+  </wpt>
+  <wpt lat="48.447617000" lon="8.146433000">
+    <ele>749.810000</ele>
+    <name>S07</name>
+    <cmt>Oppenau NO</cmt>
+    <desc>Oppenau NO</desc>
+  </wpt>
+  <wpt lat="48.823333000" lon="8.402333000">
+    <ele>658.980000</ele>
+    <name>S08</name>
+    <cmt>Althof Drachenrampe</cmt>
+    <desc>Althof Drachenrampe</desc>
+  </wpt>
+  <wpt lat="49.404900000" lon="8.726917000">
+    <ele>534.920000</ele>
+    <name>S09</name>
+    <cmt>Koenigstuhl</cmt>
+    <desc>Koenigstuhl</desc>
+  </wpt>
+  <wpt lat="49.008167000" lon="9.030233000">
+    <ele>346.860000</ele>
+    <name>S10</name>
+    <cmt>Teufelsberg</cmt>
+    <desc>Teufelsberg</desc>
+  </wpt>
+  <wpt lat="48.763617000" lon="8.260933000">
+    <ele>254.810000</ele>
+    <name>L01</name>
+    <cmt>Merkur LP W</cmt>
+    <desc>Merkur LP W</desc>
+  </wpt>
+  <wpt lat="48.772183000" lon="8.398817000">
+    <ele>398.980000</ele>
+    <name>L02</name>
+    <cmt>Loffenau LP</cmt>
+    <desc>Loffenau LP</desc>
+  </wpt>
+  <wpt lat="48.732517000" lon="8.252417000">
+    <ele>228.900000</ele>
+    <name>L03</name>
+    <cmt>Geroldsau</cmt>
+    <desc>Geroldsau</desc>
+  </wpt>
+  <wpt lat="48.498367000" lon="8.362200000">
+    <ele>564.790000</ele>
+    <name>L04</name>
+    <cmt>Stoeckerkopf LP</cmt>
+    <desc>Stoeckerkopf LP</desc>
+  </wpt>
+  <wpt lat="48.487117000" lon="8.230033000">
+    <ele>624.840000</ele>
+    <name>L05</name>
+    <cmt>Zuflucht LP</cmt>
+    <desc>Zuflucht LP</desc>
+  </wpt>
+  <wpt lat="48.451650000" lon="8.165417000">
+    <ele>304.800000</ele>
+    <name>L06</name>
+    <cmt>Oppenau LP O</cmt>
+    <desc>Oppenau LP O</desc>
+  </wpt>
+  <wpt lat="48.739800000" lon="8.544883000">
+    <ele>450.800000</ele>
+    <name>L07</name>
+    <cmt>Wildbad LP</cmt>
+    <desc>Wildbad LP</desc>
+  </wpt>
+  <wpt lat="48.947933000" lon="9.091350000">
+    <ele>183.790000</ele>
+    <name>L08</name>
+    <cmt>Bissingen Enzaue</cmt>
+    <desc>Bissingen Enzaue</desc>
+  </wpt>
+  <wpt lat="48.766733000" lon="8.295367000">
+    <ele>357.840000</ele>
+    <name>L09</name>
+    <cmt>Merkur LP NO</cmt>
+    <desc>Merkur LP NO</desc>
+  </wpt>
+  <wpt lat="48.749050000" lon="8.250267000">
+    <ele>180.750000</ele>
+    <name>L10</name>
+    <cmt>Klosterwiese</cmt>
+    <desc>Klosterwiese</desc>
+  </wpt>
+  <wpt lat="49.420767000" lon="8.737883000">
+    <ele>153.920000</ele>
+    <name>L11</name>
+    <cmt>Heidelberg LP</cmt>
+    <desc>Heidelberg LP</desc>
+  </wpt>
+  <wpt lat="49.378200000" lon="8.836133000">
+    <ele>194.770000</ele>
+    <name>L12</name>
+    <cmt>Dilsberg Pferdekoppel</cmt>
+    <desc>Dilsberg Pferdekoppel</desc>
+  </wpt>
+  <wpt lat="48.997883000" lon="9.036217000">
+    <ele>241.710000</ele>
+    <name>L13</name>
+    <cmt>Teufelsberg LP</cmt>
+    <desc>Teufelsberg LP</desc>
+  </wpt>
+  <wpt lat="48.737517000" lon="8.244200000">
+    <ele>439.830000</ele>
+    <name>M02</name>
+    <cmt>Lichtental Geroldsau</cmt>
+    <desc>Lichtental Geroldsau</desc>
+  </wpt>
+  <wpt lat="48.752550000" lon="8.201667000">
+    <ele>519.990000</ele>
+    <name>M03</name>
+    <cmt>Fremersberg</cmt>
+    <desc>Fremersberg</desc>
+  </wpt>
+  <wpt lat="48.782083000" lon="8.220133000">
+    <ele>229.820000</ele>
+    <name>M04</name>
+    <cmt>Hoehe Oos</cmt>
+    <desc>Hoehe Oos</desc>
+  </wpt>
+  <wpt lat="48.789033000" lon="8.269267000">
+    <ele>319.740000</ele>
+    <name>M05</name>
+    <cmt>Ebersteinburg Nord</cmt>
+    <desc>Ebersteinburg Nord</desc>
+  </wpt>
+  <wpt lat="48.767800000" lon="8.336367000">
+    <ele>169.770000</ele>
+    <name>M06</name>
+    <cmt>Gernsbach Bf</cmt>
+    <desc>Gernsbach Bf</desc>
+  </wpt>
+  <wpt lat="48.730417000" lon="8.348850000">
+    <ele>249.940000</ele>
+    <name>M07</name>
+    <cmt>Weisenbach</cmt>
+    <desc>Weisenbach</desc>
+  </wpt>
+  <wpt lat="48.662250000" lon="8.260067000">
+    <ele>769.920000</ele>
+    <name>M08</name>
+    <cmt>Sand</cmt>
+    <desc>Sand</desc>
+  </wpt>
+  <wpt lat="48.704700000" lon="8.170417000">
+    <ele>349.910000</ele>
+    <name>M09</name>
+    <cmt>Buehl</cmt>
+    <desc>Buehl</desc>
+  </wpt>
+  <wpt lat="48.734633000" lon="8.414350000">
+    <ele>659.890000</ele>
+    <name>M10</name>
+    <cmt>Reichental</cmt>
+    <desc>Reichental</desc>
+  </wpt>
+  <wpt lat="48.811483000" lon="8.452017000">
+    <ele>499.870000</ele>
+    <name>M12</name>
+    <cmt>Bad Herrenalb Nord</cmt>
+    <desc>Bad Herrenalb Nord</desc>
+  </wpt>
+  <wpt lat="48.817933000" lon="8.374900000">
+    <ele>269.750000</ele>
+    <name>M13</name>
+    <cmt>Sulzbach</cmt>
+    <desc>Sulzbach</desc>
+  </wpt>
+  <wpt lat="48.843567000" lon="8.307083000">
+    <ele>169.770000</ele>
+    <name>M14</name>
+    <cmt>Oberweier</cmt>
+    <desc>Oberweier</desc>
+  </wpt>
+  <wpt lat="48.805567000" lon="8.320000000">
+    <ele>140.820000</ele>
+    <name>M15</name>
+    <cmt>Gaggenau Bf</cmt>
+    <desc>Gaggenau Bf</desc>
+  </wpt>
+  <wpt lat="48.811333000" lon="8.437550000">
+    <ele>351.740000</ele>
+    <name>M16</name>
+    <cmt>Herrenalb Golfplatz</cmt>
+    <desc>Herrenalb Golfplatz</desc>
+  </wpt>
+  <wpt lat="48.794567000" lon="8.490167000">
+    <ele>714.760000</ele>
+    <name>M17</name>
+    <cmt>Dobel Wasserturm</cmt>
+    <desc>Dobel Wasserturm</desc>
+  </wpt>
+  <wpt lat="48.654617000" lon="8.329583000">
+    <ele>648.920000</ele>
+    <name>M18</name>
+    <cmt>Schwarzenbachtalsperre</cmt>
+    <desc>Schwarzenbachtalsperre</desc>
+  </wpt>
+  <wpt lat="48.596667000" lon="8.201200000">
+    <ele>1033.880000</ele>
+    <name>M19</name>
+    <cmt>Mummelsee Hotel</cmt>
+    <desc>Mummelsee Hotel</desc>
+  </wpt>
+  <wpt lat="48.610817000" lon="8.201783000">
+    <ele>1124.710000</ele>
+    <name>M20</name>
+    <cmt>Hornisgrinde Sender</cmt>
+    <desc>Hornisgrinde Sender</desc>
+  </wpt>
+  <wpt lat="48.776617000" lon="8.244167000">
+    <ele>423.980000</ele>
+    <name>M21</name>
+    <cmt>Altes Schloss</cmt>
+    <desc>Altes Schloss</desc>
+  </wpt>
+  <wpt lat="48.782583000" lon="8.273533000">
+    <ele>480.970000</ele>
+    <name>M22</name>
+    <cmt>Ebersteinburg</cmt>
+    <desc>Ebersteinburg</desc>
+  </wpt>
+  <wpt lat="48.760400000" lon="8.284267000">
+    <ele>519.990000</ele>
+    <name>M23</name>
+    <cmt>Binsenwasen</cmt>
+    <desc>Binsenwasen</desc>
+  </wpt>
+  <wpt lat="48.756250000" lon="8.286700000">
+    <ele>612.950000</ele>
+    <name>M24</name>
+    <cmt>Kleiner Staufenberg</cmt>
+    <desc>Kleiner Staufenberg</desc>
+  </wpt>
+  <wpt lat="48.745133000" lon="8.212567000">
+    <ele>279.810000</ele>
+    <name>M25</name>
+    <cmt>Fremersberg Golfplatz</cmt>
+    <desc>Fremersberg Golfplatz</desc>
+  </wpt>
+  <wpt lat="48.648950000" lon="8.236433000">
+    <ele>988.770000</ele>
+    <name>M26</name>
+    <cmt>Mehliskopf Turm</cmt>
+    <desc>Mehliskopf Turm</desc>
+  </wpt>
+  <wpt lat="48.665017000" lon="8.467183000">
+    <ele>601.980000</ele>
+    <name>M27</name>
+    <cmt>Enzkloesterle Camping</cmt>
+    <desc>Enzkloesterle Camping</desc>
+  </wpt>
+  <wpt lat="48.893783000" lon="8.703067000">
+    <ele>279.810000</ele>
+    <name>M28</name>
+    <cmt>Pforzheim Bf</cmt>
+    <desc>Pforzheim Bf</desc>
+  </wpt>
+  <wpt lat="48.680417000" lon="8.361800000">
+    <ele>320.950000</ele>
+    <name>M29</name>
+    <cmt>Forbach Bf</cmt>
+    <desc>Forbach Bf</desc>
+  </wpt>
+  <wpt lat="48.982200000" lon="8.334733000">
+    <ele>115.820000</ele>
+    <name>M30</name>
+    <cmt>DM Arena</cmt>
+    <desc>DM Arena</desc>
+  </wpt>
+  <wpt lat="48.957033000" lon="8.451733000">
+    <ele>317.910000</ele>
+    <name>M31</name>
+    <cmt>Ettlingen Sendeturm</cmt>
+    <desc>Ettlingen Sendeturm</desc>
+  </wpt>
+  <wpt lat="49.013567000" lon="8.404367000">
+    <ele>116.740000</ele>
+    <name>M32</name>
+    <cmt>Karlsruhe Schloss</cmt>
+    <desc>Karlsruhe Schloss</desc>
+  </wpt>
+  <wpt lat="48.845317000" lon="8.541533000">
+    <ele>410.870000</ele>
+    <name>M33</name>
+    <cmt>Straubenhardt Rewe</cmt>
+    <desc>Straubenhardt Rewe</desc>
+  </wpt>
+  <wpt lat="48.872217000" lon="8.619183000">
+    <ele>368.810000</ele>
+    <name>M34</name>
+    <cmt>Birkenfeld Sportplatz</cmt>
+    <desc>Birkenfeld Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.906817000" lon="8.500967000">
+    <ele>264.870000</ele>
+    <name>M35</name>
+    <cmt>Karlsbad Freibad</cmt>
+    <desc>Karlsbad Freibad</desc>
+  </wpt>
+  <wpt lat="48.463583000" lon="8.410667000">
+    <ele>728.780000</ele>
+    <name>M36</name>
+    <cmt>Freudenstadt Marktplatz</cmt>
+    <desc>Freudenstadt Marktplatz</desc>
+  </wpt>
+  <wpt lat="48.425900000" lon="8.261883000">
+    <ele>846.730000</ele>
+    <name>M37</name>
+    <cmt>Glaswaldsee</cmt>
+    <desc>Glaswaldsee</desc>
+  </wpt>
+  <wpt lat="48.523767000" lon="8.089100000">
+    <ele>196.900000</ele>
+    <name>M38</name>
+    <cmt>Oberkirch Freibad</cmt>
+    <desc>Oberkirch Freibad</desc>
+  </wpt>
+  <wpt lat="48.561333000" lon="8.172100000">
+    <ele>476.710000</ele>
+    <name>M39</name>
+    <cmt>Steinbruch Ottenhoefen</cmt>
+    <desc>Steinbruch Ottenhoefen</desc>
+  </wpt>
+  <wpt lat="48.591700000" lon="8.416383000">
+    <ele>807.720000</ele>
+    <name>M40</name>
+    <cmt>Seewald Tennisplatz</cmt>
+    <desc>Seewald Tennisplatz</desc>
+  </wpt>
+  <wpt lat="48.518983000" lon="8.315733000">
+    <ele>699.820000</ele>
+    <name>M41</name>
+    <cmt>Mitteltal Skilift</cmt>
+    <desc>Mitteltal Skilift</desc>
+  </wpt>
+  <wpt lat="48.615233000" lon="8.282617000">
+    <ele>656.840000</ele>
+    <name>M43</name>
+    <cmt>Hundsbach Skihang</cmt>
+    <desc>Hundsbach Skihang</desc>
+  </wpt>
+  <wpt lat="48.834133000" lon="8.256117000">
+    <ele>124.970000</ele>
+    <name>M44</name>
+    <cmt>Kuppenheim Bf</cmt>
+    <desc>Kuppenheim Bf</desc>
+  </wpt>
+  <wpt lat="48.940983000" lon="8.852367000">
+    <ele>309.980000</ele>
+    <name>M45</name>
+    <cmt>Muehlacker Sender</cmt>
+    <desc>Muehlacker Sender</desc>
+  </wpt>
+  <wpt lat="48.878833000" lon="8.290700000">
+    <ele>118.870000</ele>
+    <name>M46</name>
+    <cmt>Kaltenbachsee</cmt>
+    <desc>Kaltenbachsee</desc>
+  </wpt>
+  <wpt lat="48.907567000" lon="8.307217000">
+    <ele>112.780000</ele>
+    <name>M47</name>
+    <cmt>Malsch Kieswerk</cmt>
+    <desc>Malsch Kieswerk</desc>
+  </wpt>
+  <wpt lat="48.964917000" lon="8.323800000">
+    <ele>109.730000</ele>
+    <name>M48</name>
+    <cmt>Epplesee</cmt>
+    <desc>Epplesee</desc>
+  </wpt>
+  <wpt lat="48.937917000" lon="8.393517000">
+    <ele>118.870000</ele>
+    <name>M49</name>
+    <cmt>Ettlingen Sportplatz</cmt>
+    <desc>Ettlingen Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.930500000" lon="8.478433000">
+    <ele>267.920000</ele>
+    <name>M50</name>
+    <cmt>Waldbronn Sportplatz</cmt>
+    <desc>Waldbronn Sportplatz</desc>
+  </wpt>
+  <wpt lat="49.128917000" lon="8.597967000">
+    <ele>120.700000</ele>
+    <name>M51</name>
+    <cmt>Bruchsal Schloss</cmt>
+    <desc>Bruchsal Schloss</desc>
+  </wpt>
+  <wpt lat="49.219617000" lon="8.647050000">
+    <ele>108.810000</ele>
+    <name>M52</name>
+    <cmt>Kronau Bf</cmt>
+    <desc>Kronau Bf</desc>
+  </wpt>
+  <wpt lat="49.291367000" lon="8.664067000">
+    <ele>112.780000</ele>
+    <name>M53</name>
+    <cmt>Walldorf Bf</cmt>
+    <desc>Walldorf Bf</desc>
+  </wpt>
+  <wpt lat="49.037133000" lon="8.693633000">
+    <ele>169.770000</ele>
+    <name>M54</name>
+    <cmt>Bretten Bf</cmt>
+    <desc>Bretten Bf</desc>
+  </wpt>
+  <wpt lat="49.000933000" lon="8.812800000">
+    <ele>254.810000</ele>
+    <name>M55</name>
+    <cmt>Maulbronn Kloster</cmt>
+    <desc>Maulbronn Kloster</desc>
+  </wpt>
+  <wpt lat="48.711804700" lon="8.249168700">
+    <ele>0.000000</ele>
+    <name>M56</name>
+    <cmt>Geroldsauer Wasserfall</cmt>
+    <desc>Geroldsauer Wasserfall</desc>
+  </wpt>
+  <wpt lat="48.774094800" lon="8.218417200">
+    <ele>0.000000</ele>
+    <name>M57</name>
+    <cmt>Baden-Baden Sportplatz</cmt>
+    <desc>Baden-Baden Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.776410300" lon="8.251891100">
+    <ele>0.000000</ele>
+    <name>Point 78</name>
+    <cmt>Point 78</cmt>
+    <desc>Point 78</desc>
+  </wpt>
+</gpx>
