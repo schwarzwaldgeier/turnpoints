@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2017-05-18T12:12:12.984Z</time>
+  <time>2017-05-18T14:20:50.715Z</time>
   <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
   <wpt lat="48.764733000" lon="8.279267000">
     <ele>644.960000</ele>
@@ -529,5 +529,158 @@
     <name>M68</name>
     <cmt>Voelkersbach Sportplatz</cmt>
     <desc>Voelkersbach Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.892536100" lon="8.412115600">
+    <ele>0.000000</ele>
+    <name>M69</name>
+    <cmt>Schoellbronn Tennisplatz</cmt>
+    <desc>Schoellbronn Tennisplatz</desc>
+  </wpt>
+  <wpt lat="48.845647900" lon="8.405769500">
+    <ele>0.000000</ele>
+    <name>M70
+</name>
+    <cmt>Haus Bodelschwingh</cmt>
+    <desc>Haus Bodelschwingh</desc>
+  </wpt>
+  <wpt lat="48.844583500" lon="8.379414100">
+    <ele>0.000000</ele>
+    <name>M71
+</name>
+    <cmt>Freiolsheim Reha</cmt>
+    <desc>Freiolsheim Reha</desc>
+  </wpt>
+  <wpt lat="48.834175000" lon="8.440922500">
+    <ele>0.000000</ele>
+    <name>M72</name>
+    <cmt>Frauenalb Kloster</cmt>
+    <desc>Frauenalb Kloster</desc>
+  </wpt>
+  <wpt lat="48.796440000" lon="8.437044000">
+    <ele>0.000000</ele>
+    <name>M73</name>
+    <cmt>Herrenalb Kloster</cmt>
+    <desc>Herrenalb Kloster</desc>
+  </wpt>
+  <wpt lat="48.783414700" lon="8.402320100">
+    <ele>0.000000</ele>
+    <name>M74</name>
+    <cmt>Kaeppele</cmt>
+    <desc>Kaeppele</desc>
+  </wpt>
+  <wpt lat="48.768247100" lon="8.435354200">
+    <ele>0.000000</ele>
+    <name>M75
+</name>
+    <cmt>Zieflesberg Spechtschmiede</cmt>
+    <desc>Zieflesberg Spechtschmiede</desc>
+  </wpt>
+  <wpt lat="48.780316500" lon="8.449555200">
+    <ele>0.000000</ele>
+    <name>M76</name>
+    <cmt>Gaistal Ruhestein</cmt>
+    <desc>Gaistal Ruhestein</desc>
+  </wpt>
+  <wpt lat="48.777901300" lon="8.440170100">
+    <ele>0.000000</ele>
+    <name>M77</name>
+    <cmt>Zieflensberg Wegspinne</cmt>
+    <desc>Zieflensberg Wegspinne</desc>
+  </wpt>
+  <wpt lat="48.815726100" lon="8.466210400">
+    <ele>0.000000</ele>
+    <name>M78</name>
+    <cmt>Rotensol Friedhof</cmt>
+    <desc>Rotensol Friedhof</desc>
+  </wpt>
+  <wpt lat="48.818015900" lon="8.548406700">
+    <ele>0.000000</ele>
+    <name>M79</name>
+    <cmt>Dennach Friedhof</cmt>
+    <desc>Dennach Friedhof</desc>
+  </wpt>
+  <wpt lat="48.835689800" lon="8.616068100">
+    <ele>0.000000</ele>
+    <name>M80</name>
+    <cmt>Waldrennach Sportplatz</cmt>
+    <desc>Waldrennach Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.856823500" lon="8.651669000">
+    <ele>0.000000</ele>
+    <name>M81</name>
+    <cmt>Buechenbronn Stadion</cmt>
+    <desc>Buechenbronn Stadion</desc>
+  </wpt>
+  <wpt lat="49.065498000" lon="8.478494900">
+    <ele>0.000000</ele>
+    <name>M82</name>
+    <cmt>Blankenloch Sportplatz</cmt>
+    <desc>Blankenloch Sportplatz</desc>
+  </wpt>
+  <wpt lat="49.088282400" lon="8.488799900">
+    <ele>0.000000</ele>
+    <name>M83</name>
+    <cmt>Stutensee Schloss</cmt>
+    <desc>Stutensee Schloss</desc>
+  </wpt>
+  <wpt lat="49.075233800" lon="8.590541500">
+    <ele>0.000000</ele>
+    <name>M84</name>
+    <cmt>Obergrombach Freibad</cmt>
+    <desc>Obergrombach Freibad</desc>
+  </wpt>
+  <wpt lat="48.954868000" lon="8.573311000">
+    <ele>0.000000</ele>
+    <name>M85</name>
+    <cmt>Remchingen Sportplatz</cmt>
+    <desc>Remchingen Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.959947300" lon="8.618195100">
+    <ele>0.000000</ele>
+    <name>M86</name>
+    <cmt>Koenigsbach Sportplatz</cmt>
+    <desc>Koenigsbach Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.704478700" lon="8.430944700">
+    <ele>0.000000</ele>
+    <name>M86</name>
+    <cmt>Kaltenbronn Piste</cmt>
+    <desc>Kaltenbronn Piste</desc>
+  </wpt>
+  <wpt lat="48.822455700" lon="8.240030400">
+    <ele>0.000000</ele>
+    <name>M87</name>
+    <cmt>Schloss Favorite</cmt>
+    <desc>Schloss Favorite</desc>
+  </wpt>
+  <wpt lat="48.730717200" lon="8.274406900">
+    <ele>0.000000</ele>
+    <name>M88</name>
+    <cmt>Bussacker Huette</cmt>
+    <desc>Bussacker Huette</desc>
+  </wpt>
+  <wpt lat="48.737972100" lon="8.290139400">
+    <ele>0.000000</ele>
+    <name>M89</name>
+    <cmt>Oberbeuern Forellenhof</cmt>
+    <desc>Oberbeuern Forellenhof</desc>
+  </wpt>
+  <wpt lat="48.720743400" lon="8.237388400">
+    <ele>0.000000</ele>
+    <name>M90</name>
+    <cmt>Malschbach</cmt>
+    <desc>Malschbach</desc>
+  </wpt>
+  <wpt lat="48.728017400" lon="8.248109200">
+    <ele>0.000000</ele>
+    <name>M91</name>
+    <cmt>Geroldsau Tennisplatz</cmt>
+    <desc>Geroldsau Tennisplatz</desc>
+  </wpt>
+  <wpt lat="48.747408500" lon="8.301968000">
+    <ele>0.000000</ele>
+    <name>M92</name>
+    <cmt>Nachtigall</cmt>
+    <desc>Nachtigall</desc>
   </wpt>
 </gpx>

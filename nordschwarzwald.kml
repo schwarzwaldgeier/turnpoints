@@ -891,5 +891,258 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>M69</name>
+      <description>Schoellbronn Tennisplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4121156,48.8925361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M70
+</name>
+      <description>Haus Bodelschwingh</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4057695,48.8456479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M71
+</name>
+      <description>Freiolsheim Reha</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.3794141,48.8445835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M72</name>
+      <description>Frauenalb Kloster</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4409225,48.834175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M73</name>
+      <description>Herrenalb Kloster</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.437044,48.79644,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M74</name>
+      <description>Kaeppele</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4023201,48.7834147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M75
+</name>
+      <description>Zieflesberg Spechtschmiede</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4353542,48.7682471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M76</name>
+      <description>Gaistal Ruhestein</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4495552,48.7803165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M77</name>
+      <description>Zieflensberg Wegspinne</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4401701,48.7779013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M78</name>
+      <description>Rotensol Friedhof</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4662104,48.8157261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M79</name>
+      <description>Dennach Friedhof</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.5484067,48.8180159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M80</name>
+      <description>Waldrennach Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.6160681,48.8356898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M81</name>
+      <description>Buechenbronn Stadion</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.651669,48.8568235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M82</name>
+      <description>Blankenloch Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4784949,49.065498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M83</name>
+      <description>Stutensee Schloss</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4887999,49.0882824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M84</name>
+      <description>Obergrombach Freibad</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.5905415,49.0752338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M85</name>
+      <description>Remchingen Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.573311,48.954868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M86</name>
+      <description>Koenigsbach Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.6181951,48.9599473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M86</name>
+      <description>Kaltenbronn Piste</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4309447,48.7044787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M87</name>
+      <description>Schloss Favorite</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2400304,48.8224557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M88</name>
+      <description>Bussacker Huette</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2744069,48.7307172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M89</name>
+      <description>Oberbeuern Forellenhof</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2901394,48.7379721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M90</name>
+      <description>Malschbach</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2373884,48.7207434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M91</name>
+      <description>Geroldsau Tennisplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.2481092,48.7280174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M92</name>
+      <description>Nachtigall</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.301968,48.7474085,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
