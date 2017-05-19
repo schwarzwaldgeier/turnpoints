@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2017-05-18T14:20:50.715Z</time>
+  <time>2017-05-19T07:25:53.557Z</time>
   <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
   <wpt lat="48.764733000" lon="8.279267000">
     <ele>644.960000</ele>
@@ -682,5 +682,29 @@
     <name>M92</name>
     <cmt>Nachtigall</cmt>
     <desc>Nachtigall</desc>
+  </wpt>
+  <wpt lat="48.819054400" lon="8.342681200">
+    <ele>0.000000</ele>
+    <name>M93</name>
+    <cmt>Michelbach Sportplatz</cmt>
+    <desc>Michelbach Sportplatz</desc>
+  </wpt>
+  <wpt lat="48.841997400" lon="8.332850900">
+    <ele>0.000000</ele>
+    <name>M94</name>
+    <cmt>Eichelberg</cmt>
+    <desc>Eichelberg</desc>
+  </wpt>
+  <wpt lat="48.996871000" lon="8.485538400">
+    <ele>0.000000</ele>
+    <name>M95</name>
+    <cmt>Durlach Turmberg</cmt>
+    <desc>Durlach Turmberg</desc>
+  </wpt>
+  <wpt lat="49.072066600" lon="8.549509000">
+    <ele>0.000000</ele>
+    <name>M96</name>
+    <cmt>Weingarten Ungeheuerklamm</cmt>
+    <desc>Weingarten Ungeheuerklamm</desc>
   </wpt>
 </gpx>

@@ -112,4 +112,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "M90",M90,,4843.245N,00814.243E,0.0m,1,,,,"Malschbach"
 "M91",M91,,4843.681N,00814.887E,0.0m,1,,,,"Geroldsau Tennisplatz"
 "M92",M92,,4844.845N,00818.118E,0.0m,1,,,,"Nachtigall"
+"M93",M93,,4849.143N,00820.561E,0.0m,1,,,,"Michelbach Sportplatz"
+"M94",M94,,4850.520N,00819.971E,0.0m,1,,,,"Eichelberg"
+"M95",M95,,4859.812N,00829.132E,0.0m,1,,,,"Durlach Turmberg"
+"M96",M96,,4904.324N,00832.971E,0.0m,1,,,,"Weingarten Ungeheuerklamm"
 -----Related Tasks-----

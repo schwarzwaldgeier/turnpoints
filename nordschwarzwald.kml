@@ -1144,5 +1144,45 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>M93</name>
+      <description>Michelbach Sportplatz</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.3426812,48.8190544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M94</name>
+      <description>Eichelberg</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.3328509,48.8419974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M95</name>
+      <description>Durlach Turmberg</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.4855384,48.996871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M96</name>
+      <description>Weingarten Ungeheuerklamm</description>
+      <styleUrl>#icon-1739-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          8.549509,49.0720666,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
