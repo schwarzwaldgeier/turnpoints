@@ -22,7 +22,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "L11",L11,,4925.246N,00844.273E,153.9m,1,,,,"Heidelberg LP"
 "L12",L12,,4922.692N,00850.168E,194.8m,1,,,,"Dilsberg Pferdekoppel"
 "L13",L13,,4859.873N,00902.173E,241.7m,1,,,,"Teufelsberg LP"
-"M02",M02,,4844.251N,00814.652E,439.8m,1,,,,"Lichtental Geroldsau"
+"M02",M02,,4844.195N,00814.613E,0.0m,1,,,,"Geroldsau Leisberg"
 "M03",M03,,4845.153N,00812.100E,520.0m,1,,,,"Fremersberg"
 "M04",M04,,4846.925N,00813.208E,229.8m,1,,,,"Hoehe Oos"
 "M05",M05,,4847.342N,00816.156E,319.7m,1,,,,"Ebersteinburg Nord"
@@ -116,4 +116,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "M94",M94,,4850.520N,00819.971E,0.0m,1,,,,"Eichelberg"
 "M95",M95,,4859.812N,00829.132E,0.0m,1,,,,"Durlach Turmberg"
 "M96",M96,,4904.324N,00832.971E,0.0m,1,,,,"Weingarten Ungeheuerklamm"
+"M97",M97,,4843.841N,00812.010E,0.0m,1,,,,"Yburg"
+"M98",M98,,4842.558N,00811.023E,0.0m,1,,,,"Schartenberg Huette"
 -----Related Tasks-----

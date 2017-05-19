@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2017-05-19T07:25:53.557Z</time>
+  <time>2017-05-19T07:41:15.454Z</time>
   <bounds minlat="48.425900000" minlon="8.089100000" maxlat="49.420767000" maxlon="9.091350000"/>
   <wpt lat="48.764733000" lon="8.279267000">
     <ele>644.960000</ele>
@@ -140,11 +140,11 @@
     <cmt>Teufelsberg LP</cmt>
     <desc>Teufelsberg LP</desc>
   </wpt>
-  <wpt lat="48.737517000" lon="8.244200000">
-    <ele>439.830000</ele>
+  <wpt lat="48.736583000" lon="8.243556300">
+    <ele>0.000000</ele>
     <name>M02</name>
-    <cmt>Lichtental Geroldsau</cmt>
-    <desc>Lichtental Geroldsau</desc>
+    <cmt>Geroldsau Leisberg</cmt>
+    <desc>Geroldsau Leisberg</desc>
   </wpt>
   <wpt lat="48.752550000" lon="8.201667000">
     <ele>519.990000</ele>
@@ -706,5 +706,17 @@
     <name>M96</name>
     <cmt>Weingarten Ungeheuerklamm</cmt>
     <desc>Weingarten Ungeheuerklamm</desc>
+  </wpt>
+  <wpt lat="48.730676500" lon="8.200167400">
+    <ele>0.000000</ele>
+    <name>M97</name>
+    <cmt>Yburg</cmt>
+    <desc>Yburg</desc>
+  </wpt>
+  <wpt lat="48.709293200" lon="8.183709400">
+    <ele>0.000000</ele>
+    <name>M98</name>
+    <cmt>Schartenberg Huette</cmt>
+    <desc>Schartenberg Huette</desc>
   </wpt>
 </gpx>
