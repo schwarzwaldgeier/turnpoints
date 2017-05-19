@@ -537,15 +537,13 @@
   </wpt>
   <wpt lat="48.845647900" lon="8.405769500">
     <ele>0.000000</ele>
-    <name>M70
-</name>
+    <name>M70</name>
     <cmt>Haus Bodelschwingh</cmt>
     <desc>Haus Bodelschwingh</desc>
   </wpt>
   <wpt lat="48.844583500" lon="8.379414100">
     <ele>0.000000</ele>
-    <name>M71
-</name>
+    <name>M71</name>
     <cmt>Freiolsheim Reha</cmt>
     <desc>Freiolsheim Reha</desc>
   </wpt>
@@ -569,8 +567,7 @@
   </wpt>
   <wpt lat="48.768247100" lon="8.435354200">
     <ele>0.000000</ele>
-    <name>M75
-</name>
+    <name>M75</name>
     <cmt>Zieflesberg Spechtschmiede</cmt>
     <desc>Zieflesberg Spechtschmiede</desc>
   </wpt>
