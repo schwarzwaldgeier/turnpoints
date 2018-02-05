@@ -20,7 +20,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "L09",L09,,4846.004N,00817.722E,357.8m,1,,,,"Merkur LP NO"
 "L10",L10,,4844.943N,00815.016E,180.8m,1,,,,"Klosterwiese"
 "L11",L11,,4925.246N,00844.273E,153.9m,1,,,,"Heidelberg LP"
-"L12",L12,,4922.692N,00850.168E,194.8m,1,,,,"Dilsberg Pferdekoppel"
+"L12",L12,,4922.692N,00850.168E,194.8m,1,,,,"Dilsberg"
 "L13",L13,,4859.873N,00902.173E,241.7m,1,,,,"Teufelsberg LP"
 "M02",M02,,4844.195N,00814.613E,0.0m,1,,,,"Geroldsau Leisberg"
 "M03",M03,,4845.153N,00812.100E,520.0m,1,,,,"Fremersberg"
